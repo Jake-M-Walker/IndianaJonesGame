@@ -1,0 +1,7 @@
+C:\Users\owner\OneDrive\Desktop\Eleven Fifty Projects\GoldBadge\IndianaJonesGame\IndianaJonesGame\IndianaJonesGame\bin\Debug\IndianaJonesGame.exe.config
+C:\Users\owner\OneDrive\Desktop\Eleven Fifty Projects\GoldBadge\IndianaJonesGame\IndianaJonesGame\IndianaJonesGame\bin\Debug\IndianaJonesGame.exe
+C:\Users\owner\OneDrive\Desktop\Eleven Fifty Projects\GoldBadge\IndianaJonesGame\IndianaJonesGame\IndianaJonesGame\bin\Debug\IndianaJonesGame.pdb
+C:\Users\owner\OneDrive\Desktop\Eleven Fifty Projects\GoldBadge\IndianaJonesGame\IndianaJonesGame\IndianaJonesGame\obj\Debug\IndianaJonesGame.csproj.AssemblyReference.cache
+C:\Users\owner\OneDrive\Desktop\Eleven Fifty Projects\GoldBadge\IndianaJonesGame\IndianaJonesGame\IndianaJonesGame\obj\Debug\IndianaJonesGame.csproj.CoreCompileInputs.cache
+C:\Users\owner\OneDrive\Desktop\Eleven Fifty Projects\GoldBadge\IndianaJonesGame\IndianaJonesGame\IndianaJonesGame\obj\Debug\IndianaJonesGame.exe
+C:\Users\owner\OneDrive\Desktop\Eleven Fifty Projects\GoldBadge\IndianaJonesGame\IndianaJonesGame\IndianaJonesGame\obj\Debug\IndianaJonesGame.pdb
